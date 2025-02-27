@@ -118,7 +118,7 @@ export default function Home() {
             Newsletter
           </Link>
           <Link
-            href="https://bsky.app/profile/interstitial.bsky.social"
+            href="https://bsky.app/profile/interstitial.systems"
             target="_blank"
             rel="noopener noreferrer"
             className={`transition-all inline-block w-fit ${
