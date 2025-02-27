@@ -1,0 +1,25 @@
+{
+  "releases": [
+    {
+      "name": "FlexPlatform",
+      "version": "v1.0.0",
+      "codeLink": "https://github.com/interstitial-systems/globe",
+      "notesLink": null,
+      "hasCollaborator": true
+    },
+    {
+      "name": "pantograph",
+      "version": "v0.2.0",
+      "codeLink": "https://github.com/interstitial-systems/ascii-earth",
+      "notesLink": null,
+      "hasCollaborator": false
+    },
+    {
+      "name": "blocks",
+      "version": "v01.0.0",
+      "codeLink": "https://github.com/interstitial-systems/ascii-earth",
+      "notesLink": null,
+      "hasCollaborator": false
+    }
+  ]
+}
