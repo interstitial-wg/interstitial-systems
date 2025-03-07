@@ -95,8 +95,8 @@ export default function Home() {
           working research group focused on making the unseen seen. We identify
           and explore the &apos;in-between&apos; layers that connect fields of
           interest, uncovering opportunities for positive climate impact. Our
-          current efforts are focuson on enabling AI to better understand the
-          built enviorment.
+          current efforts are focused on enabling AI to better understand the
+          built environment.
         </div>
       </div>
 
