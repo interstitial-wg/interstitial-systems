@@ -91,11 +91,12 @@ export default function Home() {
 
       <div className="flex z-10">
         <div className="text-2xl max-w-2xl">
-          <span className="font-bold">Interstitial Systems</span> is a new kind
-          of working research group focused on making the unseen seen. We
-          identify and explore the &apos;in-between&apos; layers that connect
-          fields of interest, uncovering opportunities for positive climate
-          impact.
+          <span className="font-bold">Interstitial Systems</span> is a kind of
+          working research group focused on making the unseen seen. We identify
+          and explore the &apos;in-between&apos; layers that connect fields of
+          interest, uncovering opportunities for positive climate impact. Our
+          current efforts are focuson on enabling AI to better understand the
+          built enviorment.
         </div>
       </div>
 
